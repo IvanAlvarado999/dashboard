@@ -2,7 +2,7 @@ import './App.css';
 import { Grid } from '@mui/material';
 import HeaderUI from './components/HeaderUI';
 import AlertUI from './components/AlertUI';
-import Alert, { type AlertColor } from '@mui/material/Alert';
+
 
 
 function App() {
